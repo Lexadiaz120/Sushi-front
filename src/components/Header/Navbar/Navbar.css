@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-link {
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+.contacts-us {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
